@@ -1,0 +1,12 @@
+{
+  "name": "$t:navigation_editor",
+  "version": "1.0.0",
+  "types": ["json"],
+  "icon": "navigation",
+  "translation": {
+    "en-US": {
+      "navigation_editor": "Navigation Editor",
+      "new_link": "Add new link"
+    }
+  }
+}
